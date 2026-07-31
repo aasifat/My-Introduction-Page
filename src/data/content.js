@@ -58,16 +58,16 @@ export const skillCategories = [
 
 export const projects = [
   {
-    id: "lift-gift",
-    number: "01",
-    title: "Lift Gift",
-    description:
-      "A blood and organ donation and collection platform, built to make it easier for donors and recipients to find and coordinate life-saving contributions.",
-    tech: ["React", "Go", "PostgreSQL"],
-    image: "/projects/lift-gift.png",
-    projectUrl: null, // set a real URL when it's ready
-    githubUrl: "https://github.com/aasifat/LifeGift-Urgent-Organ-and-Blood-Donation-Matching",
+    id: "hfms",
+    number: "05",
+    title: "Home Finance Management System",
+    description: "Home Finance Management System (HFMS) is a full-stack web application that helps users manage income, expenses, savings, and loans in one secure platform. It provides real-time financial tracking, interactive dashboards, and insightful reports to support smarter budgeting and financial planning.",
+    tech: ["React", "JavaScript","GoLang", "PostgreSQL"],
+    image: "/projects/ledger-portfolio-cover.png",
+    projectUrl: "https://home-finance-manager-seven.vercel.app/",
+    githubUrl: "https://github.com/aasifat/Home-Finance-Manager",
   },
+  
   {
     id: "gov-eservice-guidance",
     number: "02",
@@ -80,15 +80,15 @@ export const projects = [
     githubUrl: null,
   },
   {
-    id: "explainable-ai-medical",
-    number: "03",
-    title: "Explainable AI Medical Report Generation",
+    id: "lift-gift",
+    number: "01",
+    title: "Lift Gift",
     description:
-      "A research project on chest X-ray classification that surfaces why a model reaches its prediction, using Grad-CAM and Transformer Attention Rollout.",
-    tech: ["Python", "Machine Learning", "GoLang", "Attention Rollout"],
-    image: null,
-    projectUrl: null,
-    githubUrl: null,
+      "A blood and organ donation and collection platform, built to make it easier for donors and recipients to find and coordinate life-saving contributions.",
+    tech: ["React", "Go", "PostgreSQL"],
+    image: "/projects/lift-gift.png",
+    projectUrl: null, // set a real URL when it's ready
+    githubUrl: "https://github.com/aasifat/LifeGift-Urgent-Organ-and-Blood-Donation-Matching",
   },
   {
     id: "familytree",
@@ -100,6 +100,18 @@ export const projects = [
     projectUrl: "https://rootswood-frontend.vercel.app/",
     githubUrl: "https://github.com/aasifat/rootswood-backend",
   },
+  {
+    id: "explainable-ai-medical",
+    number: "",
+    title: "Explainable AI Medical Report Generation",
+    description:
+      "A research project on chest X-ray classification that surfaces why a model reaches its prediction, using Grad-CAM and Transformer Attention Rollout.",
+    tech: ["Python", "Machine Learning", "GoLang", "Attention Rollout"],
+    image: null,
+    projectUrl: null,
+    githubUrl: null,
+  },
+
 ];
 
 export const interests = [
