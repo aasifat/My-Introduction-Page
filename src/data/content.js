@@ -52,7 +52,7 @@ export const skillCategories = [
   { title: "Frontend", items: ["React", "JavaScript", "Vite", "Tailwind CSS", "Bootstrap"] },
   { title: "Backend", items: ["Go (Golang)", "REST APIs"] },
   { title: "Database", items: ["PostgreSQL"] },
-  { title: "Programming & AI", items: ["Python", "Machine Learning", "Explainable AI"] },
+  { title: "Programming & AI", items: ["C","C++","Python", "Machine Learning", "Explainable AI"] },
   { title: "Tools", items: ["Git", "GitHub", "VS Code", "Kaggle", "Google Colab"], wide: true },
 ];
 
