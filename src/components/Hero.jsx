@@ -40,7 +40,7 @@ export default function Hero() {
 
         <Reveal delay={2} className="profile-card">
           <div className="profile-ph">
-            <img src={"/projects/IMG_5014.JPG"} alt="Ahsan Ahmed Sifat" />
+            <img src={"/projects/IMG_5015.JPG"} alt="Ahsan Ahmed Sifat" />
           </div>
           <div className="profile-meta">
             <span>Role <b>CSE Student</b></span>
